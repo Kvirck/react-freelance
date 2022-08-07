@@ -1,0 +1,36 @@
+.sidebar__account {
+    margin: 25px 0 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.account {
+    &__avatar {
+        padding: 7px;
+        border: 2px solid #3361FF;
+        border-radius: 50%;
+        margin-bottom: 30px;
+
+        img {
+            max-width: 110px;
+        }
+    }
+
+    &__info {
+        font-weight: 700;
+        text-align: center;
+
+        &__name {
+            color: #fff;
+            font-size: 15px;
+            margin-bottom: 15px;
+        }
+
+        &__email {
+            color: #4D5E80;
+            font-size: 13px;
+        }
+    }
+}

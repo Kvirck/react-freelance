@@ -1,0 +1,28 @@
+.sidebar {
+    padding: 35px;
+    z-index: 100;
+    background-color: #202B40;
+    max-width: 340px;
+    min-height: 100vh;
+    overflow: auto;
+
+    &_btnSettings {
+        display: flex;
+        justify-content: space-between;
+
+        &__item {
+            display: flex;
+            align-items: center;
+            background: #2D3C59;
+            border-radius: 30px;
+            padding: 12px ;
+            border: none;
+            cursor: pointer;
+        }
+
+        &__item:hover {
+            background: #fff;
+        }
+
+    }
+}

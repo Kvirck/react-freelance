@@ -1,0 +1,51 @@
+.skills__list {
+    display: flex;
+
+    &__item {
+        color: #fff;
+        padding: 15px 0;
+        width: 100%;
+        height: 100%;
+        background-color: inherit;
+        border: none;
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        transition: .3s ease;
+        font-size: 12px;
+        font-weight: 700;
+        position:relative;
+        img {
+            width: 22px;
+            height: 22px;
+        }
+
+        &__title {
+            display: block;
+            margin-left: 24px;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 20px;
+        }
+
+        &__count {
+            margin-left: auto;
+        }
+
+        &:hover:after {
+            background: #3361FF;
+        }
+
+        &::after {
+            content: '';
+            border-radius: 10px;
+            position: absolute;
+            top: 0;
+            left: -15px;
+            width: 270px;
+            height: 100%;
+            z-index: -10;
+        }
+    }
+}

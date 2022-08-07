@@ -1,0 +1,18 @@
+<svg width="85" height="55" viewBox="0 0 85 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M27.5 55C42.6878 55 55 42.6878 55 27.5C55 12.3122 42.6878 0 27.5 0C12.3122 0 0 12.3122 0 27.5C0 42.6878 12.3122 55 27.5 55Z" fill="#33BFFF"/>
+<path opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M57.5 55C72.6878 55 85 42.6878 85 27.5C85 12.3122 72.6878 0 57.5 0C42.3122 0 30 12.3122 30 27.5C30 42.6878 42.3122 55 57.5 55Z" fill="#FF6633"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41 41C41 41 41 44 41 44H51V41C51 41 41 41 41 41Z" stroke="#33BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 40V38H50V40" stroke="#33BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M43 38C43 38 42.2549 34.5686 41 33C41 33 38.5864 30.3395 38 30L46 16L54 30C53.3333 30.3333 52.3333 31.3333 51 33C49.7451 34.5686 49 38 49 38H43Z" stroke="#33BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33 8H43" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 8H59" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30 11C31.6569 11 33 9.65685 33 8C33 6.34315 31.6569 5 30 5C28.3431 5 27 6.34315 27 8C27 9.65685 28.3431 11 30 11Z" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M62 11C63.6569 11 65 9.65685 65 8C65 6.34315 63.6569 5 62 5C60.3431 5 59 6.34315 59 8C59 9.65685 60.3431 11 62 11Z" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="27" y="21" width="6" height="6" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="59" y="21" width="6" height="6" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46 31C47.1046 31 48 30.1046 48 29C48 27.8954 47.1046 27 46 27C44.8954 27 44 27.8954 44 29C44 30.1046 44.8954 31 46 31Z" stroke="#33BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M46 26V17" stroke="#33BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="43" y="5" width="6" height="6" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 21C31 14 36 8 42.5 8" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M61.5 21C60.5 14 55.5 8 49 8" stroke="#FF6633" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
